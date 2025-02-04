@@ -62,7 +62,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=the-nazzmul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=the-nazzmul&theme=dark)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=the-nazzmul&theme=dark" alt="GitHub Streak">
+</a>
+
 </div>
 
 ###
